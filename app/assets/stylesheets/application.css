@@ -111,8 +111,8 @@ img {
 #top {
 	margin: 20px 20px 0px 20px;
 	padding: 10px;
-	border: 5px solid #aaaa79;
-	background: #ae2600;
+	border: 5px solid #ae2600;
+	background: #c2e7ff;
 	height: 200px; /* ie5win fudge begins */
 	voice-family: "\"}\"";
 	voice-family:inherit;
