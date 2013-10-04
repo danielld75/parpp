@@ -7,8 +7,24 @@
   <%= csrf_meta_tags %>
 </head>
 <body>
+<div id="top">
+	<h1>Parafia Świętych Apostołów Piotra i Pawła w Chojnowie</h1>
+</div>
+<div id="right">
+	<p>imieniny</p>
+	<p>liturgia niedzielna</p>
+	<p>odnośniki</p>
+</div>
+<div id="left">
+	<%= link_to :home %><br />
+	<%= link_to 'O nas', 'lol'  %><br />
+	<%= link_to :schola %>
+	<%= link_to :ogłoszenia %>
+</div>
+<div id="middle">
 
 <%= yield %>
 
+</div>
 </body>
 </html>
