@@ -15,8 +15,8 @@ body {
 	margin: 0px 0px 0px 0px;
 	padding: 0px 0px 0px 0px;
 	font-family: verdana, arial, helvetica, sans-serif;
-	color: #ccc;
-	background-color: #333;
+	color: #333;
+	background-color: #e2724d;
 	}
 a {
 	text-decoration: none;
@@ -111,8 +111,8 @@ img {
 #top {
 	margin: 20px 20px 0px 20px;
 	padding: 10px;
-	border: 5px solid #ccc;
-	background: #666;
+	border: 5px solid #aaaa79;
+	background: #c2e7ff;
 	height: 200px; /* ie5win fudge begins */
 	voice-family: "\"}\"";
 	voice-family:inherit;
@@ -127,8 +127,8 @@ html>body #top {
 	left: 0px;
 	margin: 20px;
 	padding: 10px;
-	border: 5px solid #ccc;
-	background: #666;
+	border: 5px solid #aaaa79;
+	background: #dec3a6;
 	width: 150px; /* ie5win fudge begins */
 	voice-family: "\"}\"";
 	voice-family:inherit;
@@ -140,8 +140,8 @@ html>body #left {
 #middle {
 	margin: 20px 190px 20px 190px;
 	padding: 10px;
-	border: 5px solid #ccc;
-	background: #666;
+	border: 5px solid #aaaa79;
+	background: #c28f50;
 	}
 #right {
 	position: absolute;
@@ -149,8 +149,8 @@ html>body #left {
 	right: 0px; /* Opera5.02 will show a space at right when there is no scroll bar */
 	margin: 20px;
 	padding: 10px;
-	border: 5px solid #ccc;
-	background: #666;
+	border: 5px solid #aaaa79;
+	background: #aaaa79;
 	width: 150px; /* ie5win fudge begins */
 	voice-family: "\"}\"";
 	voice-family:inherit;
